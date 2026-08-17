@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "date": "2026-08-17T00:00:00Z",
+    "type": "Vocabulary Builder + Grammar in Context",
+    "duration_minutes": 35,
+    "language": "English",
+    "topics_covered": ["Travel & food vocabulary", "to be - present tense (am/is/are)", "to be - past tense (was/were)"],
+    "new_vocabulary": [
+      {"word": "airport", "translation": "аеропорт", "pronunciation": "ЕР-порт"},
+      {"word": "ticket", "translation": "квиток", "pronunciation": "ТІ-кіт"},
+      {"word": "hotel", "translation": "готель", "pronunciation": "хоу-ТЕЛ"},
+      {"word": "restaurant", "translation": "ресторан", "pronunciation": "РЕС-тронт"},
+      {"word": "water", "translation": "вода", "pronunciation": "ВО-тер"},
+      {"word": "price", "translation": "ціна", "pronunciation": "прайс"},
+      {"word": "yesterday", "translation": "вчора", "pronunciation": "ЄС-тер-дей"},
+      {"word": "today", "translation": "сьогодні", "pronunciation": "ту-ДЕЙ"}
+    ],
+    "grammar_points": ["to be present (am/is/are)", "to be past (was/were)"],
+    "exercise_accuracy": {
+      "free_production_sentences": "2/3 correct (article error: 'a water' instead of 'water')",
+      "am_is_are_fill_in": "4/5 correct",
+      "am_is_are_confidence_check": "3/3 correct",
+      "was_were_fill_in": "4/5 correct ('you was' instead of 'you were')",
+      "overall_estimate": "~85%"
+    },
+    "areas_for_improvement": [
+      "'you' always takes are/were, never is/was - single remaining exception in the am/is/are/was/were pattern",
+      "Uncountable nouns take no article ('water' not 'a water')",
+      "Reading/pronouncing English words from spelling alone - learner requested phonetic help mid-session"
+    ],
+    "learner_strengths": [
+      "Grasped the am/is/are singular-vs-plural pattern quickly and applied it correctly in free production before it was even taught explicitly",
+      "Confidently recalls existing vocabulary (colors, food, numbers) and integrates new words into original sentences",
+      "Self-aware and proactive about asking for help (pronunciation)"
+    ],
+    "next_recommended_session": "Grammar in Context - regular simple past tense (relax->relaxed, work->worked) to close the gap identified at assessment, or Conversation Simulation (hotel check-in / restaurant ordering) to apply today's vocabulary"
+  }
+]

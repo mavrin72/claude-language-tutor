@@ -32,5 +32,8 @@
   "target_cefr_level": "B1",
   "estimated_hours_to_target": 550,
   "interim_target_cefr_level": "A2",
-  "estimated_hours_to_interim_target": 200
+  "estimated_hours_to_interim_target": 200,
+  "total_hours_learned": 0.6,
+  "most_recent_session_date": "2026-08-17",
+  "pronunciation_support": "Learner has difficulty reading English words aloud from spelling alone; always include a Ukrainian-letter phonetic guide (stressed syllable in CAPITALS) alongside IPA for every new word."
 }

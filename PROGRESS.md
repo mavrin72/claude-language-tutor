@@ -1,21 +1,21 @@
 # 📊 Progress — English
 
-_Last updated: 2026-08-17 (initial assessment)_
+_Last updated: 2026-08-17 (session 1)_
 
 ## Status
-**A1** overall (reading/writing/listening/speaking/vocabulary/grammar all A1). Goal: travel & everyday life. Target: B1 (interim A2).
+**A1** overall. Goal: travel & everyday life. Target: B1 (interim A2). `to be` (present + past) now solid; next gap to close is regular simple past tense.
 
 ## Streak
-0 days (no practice sessions yet — assessment only)
+1 day 🔥 (2026-08-17)
 
 ## Vocabulary
-0 words in vocab.json — first vocab session hasn't happened yet.
+8 words learned (airport, ticket, hotel, restaurant, water, price, yesterday, today). First reviews due 2026-08-18.
 
 ## Last session
-2026-08-17 — initial assessment (langtutor-assessor)
+2026-08-17 — Vocabulary Builder + Grammar in Context (to be: am/is/are, was/were). ~85% exercise accuracy.
 
 ## Next up
-First real practice session: 10-15 min vocab (top frequency + travel/food words) + langtutor-session focused on **simple past tense** and **"to be"** (the two clearest gaps from the assessment) via Grammar-in-Context or a travel/restaurant Conversation Simulation.
+Vocab review (8 words due) + Grammar in Context on **regular simple past tense** (relax→relaxed, work→worked) — this was the original assessment's biggest gap and is the natural next step after nailing `to be`.
 
 ---
 _This file is regenerated automatically at the end of every practice session (see `CLAUDE.md`). It's meant to be readable at a glance — the detailed data lives in `Language-Tutor/learner-data/English/*.json`._
