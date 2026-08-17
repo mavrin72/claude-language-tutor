@@ -1,0 +1,78 @@
+{
+  "created_date": "2026-08-17",
+  "based_on_assessment_date": "2026-08-17",
+  "summary": "A1 overall, balanced across skills. Priority: reliable simple past tense, copula 'be' in present tense, and moving from recognition to confident production of basic vocabulary. Goal-aligned focus on travel and everyday-life topics throughout.",
+  "goals": {
+    "short_term_3_6_months": "Reach solid A2: introduce yourself fluently, handle past-tense narration of daily events, order food/ask directions/check into a hotel without hesitation, control present tense (incl. 'to be') reliably.",
+    "medium_term_6_12_months": "Consolidate A2, begin B1: hold 5+ minute unscripted conversations, write short travel-related emails/messages, understand slow-to-moderate authentic audio (announcements, simple podcasts).",
+    "long_term_12_plus_months": "Reach B1: handle most travel situations independently (per CEFR B1 descriptor), narrate past experiences fluently, understand routine spoken interactions with native speakers at a natural-ish pace."
+  },
+  "time_estimate": {
+    "assumption": "~35 min/day (~4 hours/week), consistency-based",
+    "A1_to_A2_hours": "150-250",
+    "A2_to_B1_hours": "300-400",
+    "A1_to_A2_realistic_timeline": "9-14 months at current pace",
+    "A2_to_B1_realistic_timeline": "additional 12-18 months",
+    "note": "These are FSI/SLA-research-based estimates for languages of moderate distance from Ukrainian. Consistency matters more than intensity: 30-45 min daily will outperform sporadic long sessions. Adding passive immersion (English audio/video during commute, travel apps) can meaningfully shorten this without adding formal session time.",
+    "source": "cefr-framework.md quick reference table + milestones.md A1->A2/A2->B1 sections"
+  },
+  "recommended_daily_practice_structure": {
+    "total_minutes": "30-45",
+    "breakdown": {
+      "vocabulary_review_srs": "10-15 min (langtutor-vocab, due words first)",
+      "core_session": "20-30 min (langtutor-session, rotate types: conversation simulation and grammar-in-context prioritized early to fix past-tense/copula gaps)",
+      "note": "Four Strands balance target over a week, not every single day: ~35% meaning-focused input, ~35% meaning-focused output, ~15% language-focused (grammar/vocab), ~15% fluency drills."
+    }
+  },
+  "priority_grammar_focus": [
+    "Present tense of 'to be' (am/is/are) - currently inconsistent",
+    "Simple past tense, regular and top ~15 irregular verbs (was/were, went, had, did, ate, saw)",
+    "Basic question formation (Wh- questions, do/does)",
+    "Articles (a/an/the) in simple contexts"
+  ],
+  "priority_vocabulary_focus": [
+    "Top 300-500 highest-frequency words (survival + everyday)",
+    "Travel domain: airport, hotel, directions, transportation, money/prices",
+    "Food and dining domain: ordering, menu items, dietary preferences",
+    "Numbers, time, dates (building on existing counting knowledge)"
+  ],
+  "resource_recommendations": {
+    "listening": ["Very slow, clear beginner podcasts (e.g. VOA Learning English style)", "Children's/graded audio before authentic native-speed content"],
+    "reading": ["A1 graded readers and interlinear texts via langtutor-immersion", "Simple travel blogs once at A2"],
+    "immersion_topics": ["Airport/hotel/restaurant scenarios", "Daily routine narration (fixes past tense gap directly)", "Kam'ianets-Podilskyi-to-abroad travel scenarios for personal relevance"]
+  },
+  "milestones": [
+    {
+      "name": "A1 -> A2 Transition",
+      "canDos": [
+        "Introduce self and answer personal questions without hesitation",
+        "Reliably use present tense of 'to be' (am/is/are)",
+        "Narrate 3+ past actions using correct simple past tense",
+        "Order food and ask for the bill in a restaurant scenario",
+        "Ask for and understand basic directions",
+        "Vocabulary: 500-700 active words"
+      ],
+      "vocabulary_target": "500-700 words",
+      "grammar_target": "Present tense (all persons, incl. 'to be'), simple past tense, basic questions/negation",
+      "estimatedHours": 200
+    },
+    {
+      "name": "A2 -> B1 Transition",
+      "canDos": [
+        "Hold 5+ minute conversations about travel plans and daily life",
+        "Write a 100-150 word message describing a trip or plan",
+        "Understand main points of simple travel-related audio/announcements",
+        "Handle unexpected turns in routine conversations (delays, mix-ups while traveling)"
+      ],
+      "vocabulary_target": "1000-1500 words",
+      "grammar_target": "All simple tenses, basic conditionals, relative clauses, modal verbs",
+      "estimatedHours": 350
+    }
+  ],
+  "pipeline_notes": {
+    "langtutor_session": "Use for interactive practice; prioritize Grammar-in-Context (past tense, 'to be') and Conversation Simulation (travel/restaurant scenarios) for the first several sessions.",
+    "langtutor_vocab": "Start with top 300-500 frequency words plus travel/food domains; daily SRS review.",
+    "langtutor_tracker": "Check in weekly to confirm skill balance and milestone progress against this plan.",
+    "langtutor_immersion": "Generate travel- and daily-life-themed reading passages and scenario cards to keep motivation tied to the stated goal."
+  }
+}

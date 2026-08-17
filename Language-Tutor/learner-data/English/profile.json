@@ -1,0 +1,36 @@
+{
+  "learner_id": "andrii",
+  "target_language": "English",
+  "native_language": "Ukrainian",
+  "location": "Kam'ianets-Podilskyi, Ukraine",
+  "initial_assessment_date": "2026-08-17",
+  "current_cefr_level": "A1",
+  "cefr_by_skill": {
+    "reading": "A1",
+    "writing": "A1",
+    "listening": "A1",
+    "speaking": "A1",
+    "vocabulary": "A1",
+    "grammar": "A1"
+  },
+  "assessment_notes": {
+    "strengths": [
+      "Recognizes and produces basic vocabulary (colors, food, numbers) confidently",
+      "Phonetic spelling of numbers (thee, for, phiph) shows sound knowledge ahead of written form",
+      "Can understand and respond appropriately to written English prompts"
+    ],
+    "gaps": [
+      "No reliable simple past tense control ('I relax' instead of 'I relaxed')",
+      "Occasional missing copula 'is' ('My favorite food a burger')",
+      "Low self-rated listening comprehension (isolated words only)",
+      "Low self-rated speaking fluency (isolated phrases with pauses)"
+    ]
+  },
+  "goals": "Travel and everyday life communication in English",
+  "daily_commitment_minutes": 35,
+  "preferred_learning_styles": ["conversational", "practical/travel-focused"],
+  "target_cefr_level": "B1",
+  "estimated_hours_to_target": 550,
+  "interim_target_cefr_level": "A2",
+  "estimated_hours_to_interim_target": 200
+}
