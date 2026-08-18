@@ -1,24 +1,21 @@
 # 📊 Progress — English
 
-_Last updated: 2026-08-17 (session 1)_
+_Last updated: 2026-08-18 (session 2)_
 
 ## Status
-**A1** overall. Goal: travel & everyday life. Target: B1 (interim A2). `to be` (present + past) now solid; next gap to close is regular simple past tense.
+**A1** overall. Goal: travel & everyday life. Target: B1 (interim A2). `to be` (present + past) and regular simple past tense (-ed) now solid. Next gap: irregular past tense verbs (have→had, go→went).
 
 ## Streak
-1 day 🔥 (2026-08-17)
+2 days 🔥🔥 (2026-08-17, 2026-08-18)
 
 ## Vocabulary
-8 words learned (airport, ticket, hotel, restaurant, water, price, yesterday, today). First reviews due 2026-08-18.
+8 words, all reviewed once (8/8 perfect). Next review due 2026-08-19.
 
 ## Last session
-2026-08-17 — Vocabulary Builder + Grammar in Context (to be: am/is/are, was/were). ~85% exercise accuracy.
+2026-08-18 — Vocabulary Review (8/8) + Grammar in Context (regular past tense -ed). ~95% exercise accuracy. Self-corrected the exact sentence that was wrong at initial assessment.
 
 ## Next up
-Vocab review (8 words due) + Grammar in Context on **regular simple past tense** (relax→relaxed, work→worked) — this was the original assessment's biggest gap and is the natural next step after nailing `to be`.
-
----
-_This file is regenerated automatically at the end of every practice session (see `CLAUDE.md`). It's meant to be readable at a glance — the detailed data lives in `Language-Tutor/learner-data/English/*.json`._
+Irregular past tense verbs (have→had, go→went, eat→ate), ideally inside a Conversation Simulation (hotel check-in or restaurant ordering) to combine everything learned so far in real use.
 
 ---
 _This file is regenerated automatically at the end of every practice session (see `CLAUDE.md`). It's meant to be readable at a glance — the detailed data lives in `Language-Tutor/learner-data/English/*.json`._

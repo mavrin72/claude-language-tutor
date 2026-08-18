@@ -34,5 +34,30 @@
       "Self-aware and proactive about asking for help (pronunciation)"
     ],
     "next_recommended_session": "Grammar in Context - regular simple past tense (relax->relaxed, work->worked) to close the gap identified at assessment, or Conversation Simulation (hotel check-in / restaurant ordering) to apply today's vocabulary"
+  },
+  {
+    "date": "2026-08-18T00:00:00Z",
+    "type": "Vocabulary Review (SRS) + Grammar in Context",
+    "duration_minutes": 30,
+    "language": "English",
+    "topics_covered": ["SRS review of day-1 vocabulary", "Regular simple past tense (-ed)"],
+    "new_vocabulary": [],
+    "grammar_points": ["Regular simple past tense (-ed): work, watch, play, want, relax"],
+    "exercise_accuracy": {
+      "vocab_review_8_words": "8/8 correct, first attempt, no hesitation (quality=Easy)",
+      "past_tense_fill_in": "5/5 correct once completed (worked, watched, played, wanted, relaxed)",
+      "free_production_self_correction": "Rewrote original assessment sentence ('Yesterday i relax i have dayoff') correctly applying -ed ('relaxed'); sentence-joining and irregular 'have'->'had' still need work",
+      "overall_estimate": "~95%"
+    },
+    "areas_for_improvement": [
+      "Irregular past tense verbs (have->had, go->went, eat->ate) - not yet covered",
+      "Joining two clauses into one sentence (and/because) rather than running words together"
+    ],
+    "learner_strengths": [
+      "Perfect vocabulary retention on first SRS review (8/8)",
+      "Correctly generalized the -ed rule to a brand-new verb (relax) not explicitly drilled beforehand",
+      "Directly closed the exact gap flagged at initial assessment - self-corrected the original 'I relax' sentence unprompted"
+    ],
+    "next_recommended_session": "Irregular past tense verbs (have->had, go->went, eat->ate), ideally inside a Conversation Simulation (hotel check-in or restaurant ordering) to combine today's vocab + both to-be and regular past tense in real use"
   }
 ]
