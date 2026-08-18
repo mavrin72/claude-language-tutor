@@ -16,13 +16,13 @@
     "collocations": ["at the airport", "go to the airport", "airport taxi"],
     "topic": "Travel",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "ticket",
@@ -41,13 +41,13 @@
     "collocations": ["buy a ticket", "train ticket", "plane ticket"],
     "topic": "Travel",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "hotel",
@@ -66,13 +66,13 @@
     "collocations": ["book a hotel", "stay at a hotel", "hotel room"],
     "topic": "Travel",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "restaurant",
@@ -91,13 +91,13 @@
     "collocations": ["go to a restaurant", "restaurant menu", "book a restaurant"],
     "topic": "Food",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "water",
@@ -116,13 +116,13 @@
     "collocations": ["a glass of water", "drink water", "bottle of water"],
     "topic": "Food",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "price",
@@ -141,13 +141,13 @@
     "collocations": ["good price", "high price", "ask the price"],
     "topic": "Everyday life",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "yesterday",
@@ -167,13 +167,13 @@
     "word_family": {"related": ["today", "tomorrow"]},
     "topic": "Time",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   },
   {
     "id": "today",
@@ -189,16 +189,16 @@
       "I am happy today.",
       "Today, I am at work."
     ],
-    "collocations": ["today morning is wrong -> this morning", "today is..."],
+    "collocations": ["today is..."],
     "word_family": {"related": ["yesterday", "tomorrow"]},
     "topic": "Time",
     "added_date": "2026-08-17",
-    "next_review": "2026-08-18",
+    "next_review": "2026-08-19",
     "interval_days": 1,
-    "ease_factor": 2.5,
-    "review_count": 0,
-    "correct_count": 0,
+    "ease_factor": 2.65,
+    "review_count": 1,
+    "correct_count": 1,
     "incorrect_count": 0,
-    "status": "new"
+    "status": "learning"
   }
 ]
